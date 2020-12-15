@@ -1,0 +1,29 @@
+----------------------------------------------------------------------
+Timestamp - 10/8/2020 11:33:48 PM -07:00 | Level - Warning |
+----------------------------------------------------------------------
+userId : "1306012a-7139-4ccb-a414-4fac7b673149"
+errors : "DuplicateUserName;DuplicateEmail"
+EventId : { Id: 13 }
+SourceContext : "Microsoft.AspNetCore.Identity.UserManager"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 21296
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/8/2020 11:33:48 PM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Microsoft.AspNetCore.Identity.IdentityError,Microsoft.AspNetCore.Identity.IdentityError"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 21296
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------

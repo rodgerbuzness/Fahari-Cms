@@ -1,0 +1,14 @@
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.deps.json
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csprojAssemblyReference.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfoInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.AssemblyInfo.cs
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CoreCompileInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\FunctionalService.pdb
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\LoggingService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\bin\Debug\netcoreapp3.1\ModelService.pdb
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.csproj.CopyComplete
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\FunctionalService\obj\Debug\netcoreapp3.1\FunctionalService.pdb

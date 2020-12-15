@@ -1,0 +1,288 @@
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 6:24:57 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 28"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 16676
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:25:53 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 28"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 3416
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:27:53 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 28"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 1332
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:28:17 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 15224
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:40:05 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 16380
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:42:57 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 18180
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:43:06 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 16076
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:43:16 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 18260
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:43:47 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 16924
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:44:52 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 16820
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:46:33 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 17908
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:47:35 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 10628
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:50:21 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 19148
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:50:31 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 16864
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:50:45 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 5188
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:52:52 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 17848
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 7:55:37 AM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 15448
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/6/2020 10:52:53 PM -07:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at Fahari_CMS.Program.Main(String[] args) in C:\z-a-Projects\WebProjects\Fahari CMS\Fahari CMS\Program.cs:line 29"
+InnerException : null
+Source : "Fahari CMS"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18362.0"
+Version : "3.1.6"
+UserName : "Rodgerbuzness"
+ProcessId : 20208
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+C:\z-a-Projects\WebProjects\Fahari CMS\FiltersService\bin\Debug\netcoreapp3.1\FiltersService.deps.json
+C:\z-a-Projects\WebProjects\Fahari CMS\FiltersService\bin\Debug\netcoreapp3.1\FiltersService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\FiltersService\obj\Debug\netcoreapp3.1\FiltersService.csprojAssemblyReference.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\FiltersService\obj\Debug\netcoreapp3.1\FiltersService.AssemblyInfoInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\FiltersService\obj\Debug\netcoreapp3.1\FiltersService.AssemblyInfo.cs

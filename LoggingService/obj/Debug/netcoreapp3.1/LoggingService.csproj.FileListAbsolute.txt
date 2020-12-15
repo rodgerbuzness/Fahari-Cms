@@ -1,0 +1,9 @@
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.deps.json
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\bin\Debug\netcoreapp3.1\LoggingService.pdb
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfoInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.AssemblyInfo.cs
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.pdb
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.csproj.CoreCompileInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\LoggingService\obj\Debug\netcoreapp3.1\LoggingService.csprojAssemblyReference.cache

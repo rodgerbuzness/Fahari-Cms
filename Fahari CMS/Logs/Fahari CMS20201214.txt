@@ -1,0 +1,26 @@
+----------------------------------------------------------------------
+Timestamp - 12/14/2020 2:02:03 PM -08:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18363.0"
+Version : "3.1.8"
+UserName : "Rodgerbuzness"
+ProcessId : 21872
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 12/14/2020 2:02:03 PM -08:00 | Level - Error |
+----------------------------------------------------------------------
+SourceContext : "Microsoft.AspNetCore.SpaServices"
+Application : "Fahari_CMS_App"
+MachineName : "DESKTOP-RP52JEA"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.18363.0"
+Version : "3.1.8"
+UserName : "Rodgerbuzness"
+ProcessId : 21872
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------

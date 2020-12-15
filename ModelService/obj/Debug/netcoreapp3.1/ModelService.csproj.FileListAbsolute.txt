@@ -1,0 +1,9 @@
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\bin\Debug\netcoreapp3.1\ModelService.deps.json
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\bin\Debug\netcoreapp3.1\ModelService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\obj\Debug\netcoreapp3.1\ModelService.csprojAssemblyReference.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfoInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\obj\Debug\netcoreapp3.1\ModelService.AssemblyInfo.cs
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\bin\Debug\netcoreapp3.1\ModelService.pdb
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\obj\Debug\netcoreapp3.1\ModelService.csproj.CoreCompileInputs.cache
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\obj\Debug\netcoreapp3.1\ModelService.dll
+C:\z-a-Projects\WebProjects\Fahari CMS\ModelService\obj\Debug\netcoreapp3.1\ModelService.pdb

@@ -1,0 +1,50 @@
+﻿
+<nav id="sidebar" class="navbar-light bg-white topbar mb-4 static-top shadow">
+    <div class="sidebar-header bg-white">
+        <a asp-controller="Home" asp-action="Index">
+            <h3 class="brand">FahariTech<sup>.com</sup></h3>
+            <strong class="brand">Fh</strong>
+        </a>
+    </div>
+
+    <ul class="list-unstyled components">
+        <li>
+            <a asp-controller="Home" asp-action="Index">
+                <i class="fas fa-home"></i>
+                Home
+            </a>
+        </li>
+        <li>
+            <a href="#userSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="fas fa-user"></i>
+                Users
+            </a>
+            <ul class="collapse list-unstyled" id="userSubmenu">
+                <div class="innerList">
+                    <li>
+                        <a asp-controller="User" asp-action="Index" asp-area="Admin">All Users</a>
+                    </li>
+                    <li>
+                        <a asp-controller="UserRole" asp-action="Index" asp-area="Admin">User Roles</a>
+                    </li>
+                </div>
+            </ul>
+        </li>
+        <li>
+            <a href="#settingsSubMenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="fas fa-cogs"></i>
+                Settings
+            </a>
+            <ul class="collapse list-unstyled" id="settingsSubMenu">
+                <div class="innerList">
+                    <li>
+                        <a asp-controller="SiteSettings" asp-action="Index" asp-area="Admin">Site Settings</a>
+                    </li>
+                    <li>
+                        <a asp-controller="EmailSettings" asp-action="Index" asp-area="Admin">Email Settings</a>
+                    </li>
+                </div>
+            </ul>
+        </li>
+    </ul>
+</nav>
